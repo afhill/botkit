@@ -6,7 +6,7 @@
            \/_____/   \/_____/     \/_/   \/_/\/_/   \/_/     \/_/
 
 
-This is a sample Slack bot built with Botkit.
+This is a sample Slack bot built with Botkit.  
 
 This bot demonstrates many of the core features of Botkit:
 
